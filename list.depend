@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1553638047 source:c:\users\icms\desktop\projects\list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1553635992 c:\users\icms\desktop\projects\list\list.h
+
+1553637974 source:c:\users\icms\desktop\projects\list\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1553703033 source:c:\users\icms\desktop\ghprj\doublelinkedlist\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1553701768 c:\users\icms\desktop\ghprj\doublelinkedlist\list.h
+
+1553702847 source:c:\users\icms\desktop\ghprj\doublelinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
